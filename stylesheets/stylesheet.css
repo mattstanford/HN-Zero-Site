@@ -295,7 +295,6 @@ Full-Width Styles
   color: #fff;
   font-size: 42px;
   font-weight: 700;
-  /*text-shadow: #111 0px 0px 10px;*/
 }
 
 #project_tagline {
@@ -303,7 +302,6 @@ Full-Width Styles
   font-size: 24px;
   font-weight: 300;
   background: none;
-  /*text-shadow: #111 0px 0px 10px; */
 }
 
 #downloads {
@@ -313,7 +311,6 @@ Full-Width Styles
   bottom: -40px;
   right: 0;
   height: 70px;
-  background: url('../images/icon_download.png') no-repeat 0% 90%;
 }
 
 .zip_download_link {
